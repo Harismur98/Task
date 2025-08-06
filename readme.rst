@@ -10,15 +10,6 @@ This is a basic Task Management System built using **CodeIgniter 3** and **Boots
 
 3. **Configure the database** in application/config/database.php :
 
-$db['default'] = array(
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => '',
-    'database' => 'task_manager',
-    'dbdriver' => 'mysqli',
-    ...
-);
-
 4. **Set base url** in application/config/config.ph:
 $config['base_url'] = 'http://localhost/task/index.php';
 
