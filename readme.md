@@ -9,8 +9,7 @@ This is a basic Task Management System built using **CodeIgniter 3** and **Boots
 Download or clone this project into your XAMPP `htdocs` or `www` directory:
 
 
-```bash
-git clone https://github.com/your-username/task-management-system.git```
+```bash git clone https://github.com/your-username/task-management-system.git```
 
 
 ### 2. Set Up the Database
