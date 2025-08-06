@@ -20,7 +20,7 @@ $db['default'] = array(
 );
 
 4. **Set base url** in application/config/config.ph:
-$config['base_url'] = 'http://localhost/task/';
+$config['base_url'] = 'http://localhost/task/index.php';
 
 5. **Install composer dependecy**: composer require phpoffice/phpspreadsheet:^1.29
 
